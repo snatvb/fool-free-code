@@ -1,0 +1,6 @@
+[book]
+authors = ["Andrew Brighton"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Код без дураков"

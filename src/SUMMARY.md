@@ -8,3 +8,4 @@
 -   [🌴 Принцип контекстов](./contexts.md)
 -   [😫 Enum - oh shit were go again](./enums_hate.md)
 -   [🗿 Констатируем](./constants.md)
+-   [🧐 Очевидно и явно](./obviously.md)
